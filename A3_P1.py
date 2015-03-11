@@ -1,6 +1,4 @@
 import sys
-import math
-
 instructions = []
 finalStates = []
 inputs = []
@@ -44,8 +42,6 @@ for inputArray in inputs:
 				found=True;
 		else:
 			found=True;
-	# for x in xrange(1,len(inputArray)-1):
-	# 	print inputArray[x]	
 	print "".join(inputArray[1:len(inputArray)-1])
 	if str(curState) in finalStates[0]:
 		print "ACCEPTED"
