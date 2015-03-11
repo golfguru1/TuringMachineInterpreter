@@ -1,0 +1,8 @@
+xbbab
+REJECTED
+xaaaa
+REJECTED
+xb
+ACCEPTED
+xbaaa
+ACCEPTED
