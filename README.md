@@ -20,6 +20,7 @@ Lines beginning with `f` are the final accepting states of the Turing Machine
 f 2 3
 ```
 
+It will output the modified input string as well as whether or not it was accepted by the Turing Machine
 ##Installation
 
 The interpreter is run from the command line:
