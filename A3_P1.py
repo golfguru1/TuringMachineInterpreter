@@ -15,7 +15,6 @@ for line in sys.stdin:
     	myList.insert(0,"Z")
     	myList.append("Z")
     	inputs.append(myList)
-print inputs
 #get the list of all current state and input symbol combinations
 instructionInputArray=[]
 for z in xrange(0,len(instructions)):

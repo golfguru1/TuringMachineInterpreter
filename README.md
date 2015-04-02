@@ -25,4 +25,4 @@ It will output the modified input string as well as whether or not it was accept
 
 The interpreter is run from the command line:
 
-	python < inputFile.txt
+	python A3_P1.py < inputFile.txt
